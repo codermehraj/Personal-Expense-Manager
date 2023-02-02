@@ -1,6 +1,6 @@
-# first_app
+# Personal Expense Manager
 
-A new Flutter project.
+Built using Flutter project.
 
 ## Getting Started
 
